@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/StackRecommenderFeature_1.0.0.201703162217.jar" id="StackRecommenderFeature" version="1.0.0.201703162217"/>
+   <feature url="features/StackFeature_1.0.0.201703182035.jar" id="StackFeature" version="1.0.0.201703182035"/>
 </site>
